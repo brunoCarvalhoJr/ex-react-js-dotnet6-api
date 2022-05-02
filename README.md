@@ -17,7 +17,15 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-1 - Clone this repo using git clone git@github.com:brunoCarvalhoJr/example-reactjs-dotnet6-api.git
+<lu>
+  <li>
+     1 - Clone this repo using git clone git@github.com:brunoCarvalhoJr/example-reactjs-dotnet6-api.git
+  </li>
+  <li>
+     1 - Clone this repo using git clone git@github.com:brunoCarvalhoJr/example-reactjs-dotnet6-api.git
+  </li>
+</lu>
+
 2 - Move yourself to the appropriate directory
 3 - Run yarn install dependencies
 4 - Create your DB
