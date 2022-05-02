@@ -17,16 +17,9 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-1 - Clone this repo using git clone git@github.com:brunoCarvalhoJr/example-reactjs-dotnet6-api
-
-## Utilization
-
-When running the project, set your backend path and press enter.
-
-Set the Feature name of your entity and press enter.
-
-Set your entity name and press enter.
-
-Set your frontend path and hit enter.
-
-Okay, all the standard backEnd and Front files were generated, now make the injection and necessary dependencies and continuity to your development.
+1 - Clone this repo using git clone git@github.com:brunoCarvalhoJr/example-reactjs-dotnet6-api.git
+2 - Move yourself to the appropriate directory
+3 - Run yarn install dependencies
+4 - Create your DB
+5 - Run your backend to create tables of DB
+6 - Run yarn start to start the server.
