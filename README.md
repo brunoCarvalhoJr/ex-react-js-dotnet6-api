@@ -1,11 +1,10 @@
 # example-reactjs-donet6-api
 
 
-<h1 align="center">ReactJs and .AspnetCore CRUD generator</h1>
+<h1 align="center">Application example to manage books in APSNET-6.0 and REACTJS</h1>
 
 <div align="center">
-  
-  Example of a Book manager application in ReactJs [React](https://reactjs.org/) and [ASP.NET-6,0](https://docs.microsoft.com/pt-br/aspnet/core/getting-started/?view=aspnetcore-6.0&tabs=windows)
+  Application example to manage books in ReactJs [React](https://reactjs.org/) and [ASP.NET-6,0](https://docs.microsoft.com/pt-br/aspnet/core/getting-started/?view=aspnetcore-6.0&tabs=windows)
   
 </div>
 
