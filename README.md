@@ -10,12 +10,12 @@
 
 ## Utilization
 
-Ao rodar o projeto, defina o caminho do seu backend e precione enter.
+When running the project, set your backend path and press enter.
 
-Defina o nome da Feature da sua entidade e precione enter.
+Set the Feature name of your entity and press enter.
 
-Defina o nome da sua entidade e precione enter.
+Set your entity name and press enter.
 
-Defina o caminho do seu frontend e precione enter.
+Set your frontend path and hit enter.
 
-Pronto, todos os arquivos padrões de backEnd e Front foram gerados, agora faça a injeçãod e dependencias necessárias e de continuidade ao seu desenvolviemnto.
+Okay, all the standard backEnd and Front files were generated, now make the injection and necessary dependencies and continuity to your development.
